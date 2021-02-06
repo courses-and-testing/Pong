@@ -1,0 +1,13 @@
+= Pong
+
+== About
+
+This repository is a version of Pong written in Godot with the only purpose of practicing for the Godot Wild Jam.
+
+== Design
+
+We are going to use the `Scenes` in Godot as objects and follow the Object-Oriented Paradigm for developing this game. For now our three objects will be as follow:
+
+. Main: which will have the background and instancing of the other `scenes`.
+. Bar: which will be the bars to the sides that play with the ball.
+. Ball: I think we all know what a ball in Pong is...
